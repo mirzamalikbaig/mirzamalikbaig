@@ -24,7 +24,7 @@ SystemVerilog and UVM testbenches that check a design on their own: scoreboards,
 
 ## Experience
 
-- Verification Intern, Aisemi Pvt. Ltd. (Jan to Apr 2024): SystemVerilog RTL and testbenches, simulation and waveform debugging with Synopsys tools.
+- Verification Intern, Aisemi Pvt. Ltd. (Jan to May 2024): SystemVerilog RTL and testbenches, simulation and waveform debugging with Synopsys tools.
 - Industrial Trainee, Electronics Corporation of India Limited (Nov 2019 to Mar 2020): supervised circuit testing and basic hardware troubleshooting.
 
 More detail on each project is on the [portfolio](https://mirzamalikbaig.github.io/). I'm happy to walk through any of these testbenches.
